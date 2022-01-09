@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vladislavEnCh/react-fortnight-shop/static/css/main.7e6dc73a.css",
+    "main.js": "/vladislavEnCh/react-fortnight-shop/static/js/main.880095b4.js",
+    "index.html": "/vladislavEnCh/react-fortnight-shop/index.html",
+    "main.7e6dc73a.css.map": "/vladislavEnCh/react-fortnight-shop/static/css/main.7e6dc73a.css.map",
+    "main.880095b4.js.map": "/vladislavEnCh/react-fortnight-shop/static/js/main.880095b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6dc73a.css",
+    "static/js/main.880095b4.js"
+  ]
+}
